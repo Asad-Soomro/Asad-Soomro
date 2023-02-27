@@ -19,9 +19,17 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit-learn,opencv,bash,github,cpp,docker,js,unity&perline=5" />
   </a>
 </p>
-<h2 align="center">GitHub Stats:</h2>
-<div class="container" style="display: flex; justify-content: center; align-items: center; height: 150px;">
-  <img class="img" style="height: 100%; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=asad-soomro&show_icons=true&locale=en&theme=vue-dark" />
-  <img class="img" style="height: 100%; margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-soomro&show_icons=true&locale=en&layout=compact&theme=vue-dark" />
+<div style="display:flex; justify-content:center; align-items:center">
+  <div style="flex:1">
+    <h2 align="center">GitHub Stats:</h2>
+    <p align="center" style="display:flex; justify-content:center">
+      <img src="https://github-readme-stats.vercel.app/api?username=asad-soomro&show_icons=true&locale=en&theme=vue-dark" style="width:50%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-soomro&show_icons=true&locale=en&layout=compact&theme=vue-dark" style="width:50%" alt="Top Languages" />
+    </p>
+  </div>
 </div>
-<p style="margin-top: 20px; margin-bottom: 20px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-soomro&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="asad-soomro" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asad-soomro&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="GitHub Streak" />
+</p>
+
